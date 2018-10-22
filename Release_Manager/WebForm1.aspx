@@ -13,7 +13,7 @@
 <link href="fonts/style.css" rel="stylesheet" />
     <title></title>
 </head>
-<body>  
+<body>    
     <div id="header-wrapper">
 	<div id="header" class="container">
 		<div id="logo">
