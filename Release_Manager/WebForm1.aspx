@@ -55,6 +55,7 @@
 			<p>Av Mariscal La Mar 841</p>
 		</div>
     </div>
+
     <div align="center" class="container">
 	<strong>Tambien encuentranos en:<br />
     <span class="icon-facebook"></span> | <a href="https://web.facebook.com/FractalsolucionesTI/?_rdc=1&_rdr" rel="nofollow">FACEBOOK</a>
